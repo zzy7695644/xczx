@@ -12,11 +12,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-/**
- * @author Administrator
- * @version 1.0
- * @create 2018-09-12 18:32
- **/
 @Service
 public class PageService {
 
